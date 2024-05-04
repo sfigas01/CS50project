@@ -1,0 +1,66 @@
+/* This is a CSS comment. Put your CSS styling below this line */
+
+header {
+    background-color: #f8f9fa;
+    padding: 20px;             
+    text-align: center;  
+    
+}
+
+header h1 {
+    color: #007bff; 
+    font-family: 'Arial', sans-serif; 
+    font-size: 24px;        
+        
+}
+
+main {
+    padding: 20px; 
+    font-family: 'Verdana', sans-serif; 
+    line-height: 1.6;       
+    color: #333;
+}
+
+
+a {
+    color: #007bff;          
+    text-decoration: underline;   
+}
+
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+  }
+
+button {
+    background-color: #0061ff; 
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 2px;
+  cursor: pointer;
+    font-size: 12px;
+    margin-top: 20px;
+}
+
+input[type="text"] {
+  padding: 4px 15px;
+  border: 2px; 
+  border-style: solid;
+  border-color: #ccc; 
+  border-radius: 4px;
+  border-width: 2px;
+  font-size: 16px;
+}
+
+footer {
+  color: #ebf38f; 
+   background-color: #00364a;
+  padding: 5px;
+  font-family: 'Arial', sans-serif; 
+  font-size: 20px; 
+}
+
